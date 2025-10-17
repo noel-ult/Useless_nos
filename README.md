@@ -114,4 +114,4 @@ The web-based version of this project serves as an excellent, safe, and cross-pl
 Made with ❤️ at TinkerHub Useless Projects
 
 [](https://www.tinkerhub.org/)
-[](https://www.tinkerhub.org/events/Q2Q1TQKX6Q/Useless%20Projects)
+[](https://www.tinkerhub.org/events/Q2Q1TQKX6Q/Useless%20Projects) 
