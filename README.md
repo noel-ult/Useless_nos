@@ -1,5 +1,10 @@
 Of course\! Here is the completed project file based on the Python program you provided.
 
+<!-- documentation-navigation -->
+[Developer guide](docs/PROJECT_GUIDE.md) · [Source reference](docs/REFERENCE.md) · [Contributing](CONTRIBUTING.md)
+<!-- /documentation-navigation -->
+
+
 -----
 
 # Kurukku 🎯
