@@ -1,7 +1,6 @@
 # Useless_nos source reference
 
-
-Source reviewed: [`d13ccf248e85`](https://github.com/noel-ult/Useless_nos/commit/d13ccf248e85a50e0af67cfc4aad4f2e08bf8ba0).
+Source reviewed: [`be77a3623877`](https://github.com/noel-ult/Useless_nos/commit/be77a3623877d8e8094bfdf96e09fd49b8a00560).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -9,7 +8,10 @@ This reference records the checked-in source, scripts, configuration names, and 
 
 Historical plans/reports describe their own revision; use current source when they disagree.
 
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [README.md](../README.md)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 
 ## Source and configuration map
 
